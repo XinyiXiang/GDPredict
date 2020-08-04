@@ -1,5 +1,5 @@
 # UTHealth Summer 2020 Research Project
-[![NPM version](https://badge.fury.io/js/esta.svg)](http://badge.fury.io/js/esta)
+[![NPM version](https://badge.fury.io/js/esta.svg)](http://badge.fury.io/js/esta)</br>
 Constructed time series analysis and recurrent neural networks in GDP prediction under the global pandemic. Grasped data from remote data access, added in employment rate, cases of infection and indices for better representation, evaluation and optimization.
 
 # Useful concepts
